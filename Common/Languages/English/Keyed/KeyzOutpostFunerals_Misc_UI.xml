@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <KeyzOutpostFunerals_SettingsCategory>KeyzOutpostFunerals</KeyzOutpostFunerals_SettingsCategory>
-    <KeyzOutpostFunerals_Settings_SettingName>Some Setting</KeyzOutpostFunerals_Settings_SettingName>
+    <KOF_DeadPawnFromOutpost>After their passing, {0} is being returned from {1} to the colony for proper funeral arrangements.</KOF_DeadPawnFromOutpost>
+    <KOF_DeadPawnFromOutpostLabel>{0}'s funeral</KOF_DeadPawnFromOutpostLabel>
 </LanguageData>
