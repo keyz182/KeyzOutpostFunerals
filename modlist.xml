@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.5.4297 rev1078</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -9,9 +8,9 @@
         <li>ludeon.rimworld.biotech</li>
         <li>ludeon.rimworld.anomaly</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
-        <li>keyz182.keyzoutpostfunerals</li>
         <li>nightmare.jaxe.publisherplusmultiversionfork</li>
         <li>vanillaexpanded.outposts</li>
+        <li>keyz182.keyzoutpostfunerals</li>
         <li>mrhydralisk.voeadditionaloutposts</li>
     </activeMods>
     <knownExpansions>
